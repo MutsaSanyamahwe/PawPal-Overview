@@ -46,7 +46,7 @@ Public overview of repositories:
 
 ## Screenshots
 
-_(Add 3–5 key screenshots)_
+
 
 ![Login Screen](Screenshots/Login.png)  
 ![Matching Screen](Screenshots/Fetchmate1.png)  
