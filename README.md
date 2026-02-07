@@ -50,20 +50,20 @@ _(Add 3–5 key screenshots)_
 
 ![Login Screen](Screenshots/Login.png)  
 ![Matching Screen](Screenshots/Fetchmate1.png)  
-![Caregiver Homepage](screenshots/CaregiverHome.png)  
-![Analytics Dashboard](screenshots/Analytics1.png)
-![Analytics Dashboard](screenshots/Analytics2.png)
+![Caregiver Homepage](Screenshots/CaregiverHome.png)  
+![Analytics Dashboard](Screenshots/Analytics1.png)
+![Analytics Dashboard](Screenshots/Analytics2.png)
 
 > core functionality of the mobile application, caregiver booking system, and analytics dashboards.
 ![Messaging](Screenshots/Messaging1.png)
 ![In_chat Messaging](Screenshots/Messaging2.png)
 ![PawAcademy](Screenshots/PawAcademy2.png)  
-![Find Vet](screenshots/FindVet.png)  
-![Add Vet](screenshots/AddVet.png)
+![Find Vet](Screenshots/FindVet.png)  
+![Add Vet](Screenshots/AddVet.png)
 ![Booking](Screenshots/Booking.png)
 ![Booking Instructions](Screenshots/Booking2.png)
-![CaregiverSurvey](CaregiverSurvey.png)  
-![Caregiver Wallet](screenshots/CaregiverWallet.png) 
+![CaregiverSurvey](Screenshots/CaregiverSurvey.png)  
+![Caregiver Wallet](Screenshots/CaregiverWallet.png) 
 ---
 
 ## Skills Demonstrated
