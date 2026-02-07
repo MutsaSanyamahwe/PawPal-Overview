@@ -48,8 +48,8 @@ Public overview of repositories:
 
 _(Add 3–5 key screenshots)_
 
-![Login Screen](Screenshots/login.png)  
-![Matching Screen](Screenshots/Fetchmate.png)  
+![Login Screen](Screenshots/Login.png)  
+![Matching Screen](Screenshots/Fetchmate1.png)  
 ![Caregiver Booking](screenshots/caregiver.png)  
 ![Analytics Dashboard](screenshots/dashboard.png)
 
