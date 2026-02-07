@@ -50,10 +50,15 @@ _(Add 3–5 key screenshots)_
 
 ![Login Screen](Screenshots/Login.png)  
 ![Matching Screen](Screenshots/Fetchmate1.png)  
-![Caregiver Booking](screenshots/caregiver.png)  
-![Analytics Dashboard](screenshots/dashboard.png)
+![Caregiver Homepage](screenshots/Screenshot(955).png)  
+![Analytics Dashboard](screenshots/Screenshot(959).png)
 
-> Screenshots demonstrate core functionality of the mobile application, caregiver booking system, and analytics dashboards.
+> core functionality of the mobile application, caregiver booking system, and analytics dashboards.
+![Messaging](Screenshots/Messaging1.png)
+![In_chat Messaging](Screenshots/Messaging2.png)
+![PawAcademy](Screenshots/PawAcademy2.png)  
+![Find Vet](screenshots/Screenshot(978).png)  
+![Add Vet](screenshots/Screenshot(980).png)
 
 ---
 
